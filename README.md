@@ -1,7 +1,7 @@
 <h1 align="center">Hola/Hello/Hallo! 👋, I'm Martin</h1>
 <h3 align="center">Passionate Researcher & Programmer from Spain</h3>
 
-- 🌱 I’m currently learning **Python, MATLAB**
+- 🌱 My main projects have been performed in **Python, MATLAB**
 
 - 📫 How to reach me **mioiniguez@gmail.com**
 
