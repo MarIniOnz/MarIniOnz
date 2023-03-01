@@ -1,5 +1,5 @@
 <h1 align="center">Hola/Hello/Hallo! 👋, I'm Martin</h1>
-<h3 align="center">Passionate Researcher & Programmer from Spain</h3>
+<h3 align="center">Passionate Researcher & Data Scientist from Spain</h3>
 
 - 🌱 My main projects have been performed in **Python, MATLAB**
 
