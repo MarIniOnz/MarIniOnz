@@ -3,7 +3,7 @@
 
 - 🌱 My main projects have been performed in **Python, MATLAB**
 
-- 📫 How to reach me **mioiniguez@gmail.com**
+- 📫 How to reach me **mioiniguez ad gmail.com**
 
 - 🛠 Currently working in [medmodels](https://github.com/limebit/medmodels).
 
